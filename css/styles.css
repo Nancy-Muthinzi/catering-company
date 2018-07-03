@@ -1,0 +1,28 @@
+.jumbotron {
+  background-color: rgb(255,218,185);
+}
+#banner {
+  max-width: 100%;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+    background-color: tomato;
+  }
+  nav>ul {
+      text-align: right;
+  }
+  nav>ul>li {
+      display: inline-block;
+  }
+  nav ul li a {
+      padding: 18px;
+      margin-right: 0;
+      text-transform: uppercase;
+      text-decoration: none;
+      display: block;
+      color: black;
+      font-size: 1em;
+  }
+  nav ul img {
+    float: left;
+  }
