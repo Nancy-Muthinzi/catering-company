@@ -1,5 +1,8 @@
 .jumbotron {
   background-color: rgb(255,218,185);
+  font: Brush Script; 
+  font-style: oblique;
+
 }
 #banner {
   max-width: 100%;
@@ -8,6 +11,9 @@
     margin-right: 0%;
     background-color: tomato;
   }
+a:hover {
+  background-color: rgb(255,218,185);
+}
   nav>ul {
       text-align: right;
   }
